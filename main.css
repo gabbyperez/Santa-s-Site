@@ -1,0 +1,78 @@
+@charset "utf-8";
+#banner {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+
+}
+#nav {
+	height: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#reindeer {
+	float: left;
+	width: 650px;
+	height: 300px;
+}
+#elves {
+	float: right;
+	width: 650px;
+	height: 150px;
+}
+
+
+#body {
+	height: 600px;
+	float: left;
+	width: 650px;
+}
+#text {
+	float: right;
+	width: 650px;
+	height: 400px;
+}
+
+#p {
+	float: right;
+	width: 650px;
+	font-size: 70px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-weight: lighter;
+}
+.container .row .col-lg-4.col-md-12.hidden-md {
+	float: right;
+	width: 550px;
+	background-color: #FFFFFF;
+}
+.container {
+	background-color: #FFFFFF;
+}
+
+.container .row .col-lg-4.col-md-6 {
+	width: 550px;
+	background-color: #FFFFFF;
+}
+h2 {
+	text-align: center;
+}
+#head {
+	margin-left: 350px;
+	margin-right: 350px;
+	background-color: #FFFFFF;
+}
+p {
+	font-weight: lighter;
+	font-size: 20px;
+}
+h4 {
+	font-weight: lighter;
+	font-size: 25px;
+}
+.text-center .container {
+	background-color: #000000;
+}
+.container .row .col-xs-12.col-lg-offset-3.col-lg-6 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+}
